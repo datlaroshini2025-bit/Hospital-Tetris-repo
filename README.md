@@ -122,7 +122,9 @@ Synthetic patients navigate a continuous operational graph across 10 specialized
 
 ---
 **📌 Current Status**
+
 🚧 Active Development — Review 1
+
 Current development areas:
 Concept finalized: Digital Twin + Explainable AI + Optimization
 System architecture designed
