@@ -121,7 +121,7 @@ Synthetic patients navigate a continuous operational graph across 10 specialized
 - **Mathematical Simulation**: Mulberry32 Seeded Pseudo-Random Number Generator (PRNG) for 100% deterministic runs and What-If state cloning
 
 ---
-📌 Current Status
+**📌 Current Status**
 🚧 Active Development — Review 1
 Current development areas:
 Concept finalized: Digital Twin + Explainable AI + Optimization
